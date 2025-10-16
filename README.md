@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi, I'm Swinal Waghmare — a Machine Learning and Data Science enthusiast who loves solving real-world problems through data.
-💡 I actively participate in Kaggle competitions to sharpen my modeling and problem-solving skills.
-🚀 Currently exploring AWS, Docker, Kubernetes, and Terraform to build and deploy scalable ML systems.
-🧠 My specialties include AWS, Python, and Machine Learning algorithms.
+<p>👋 Hi, I'm Swinal Waghmare — a Machine Learning and Data Science enthusiast who loves solving real-world problems through data.</p>
+<p>💡 I actively participate in Kaggle competitions to sharpen my modeling and problem-solving skills.</p>
+<p>🚀 Currently exploring AWS, Docker, Kubernetes, and Terraform to build and deploy scalable ML systems.</p>
+<p>🧠 My specialties include AWS, Python, and Machine Learning algorithms.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swinalwaghmare/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/waghmare_swinal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swinalwaghmare@gmail.com) 
