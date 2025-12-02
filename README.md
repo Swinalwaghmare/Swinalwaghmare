@@ -3,7 +3,6 @@
 I’m a **Cloud, DevOps, and MLOps Engineer** who loves building scalable systems, automating workflows, and deploying ML models into real-world environments.
 I enjoy solving problems across **AWS, CI/CD, Kubernetes, Docker, MLOps pipelines, and backend automation**.
 
----
 
 ## 🧑‍💻 **Who Am I?**
 
@@ -17,7 +16,6 @@ A tech enthusiast with hands-on experience in:
 
 My goal is to combine **DevOps + MLOps + Cloud** to create systems that are **production-ready, reliable, and scalable**.
 
----
 
 ## 🚀 **What I’m Currently Working On**
 
@@ -33,7 +31,6 @@ My goal is to combine **DevOps + MLOps + Cloud** to create systems that are **pr
 * Production-ready **Blue-Green Kubernetes deployment** with Jenkins
 * End-to-end ML systems: recommender system, sentiment analysis pipeline, SQL-based data engineering workflows
 
----
 
 ## 🛠️ **Tools & Technologies I Use**
 
@@ -65,14 +62,16 @@ My goal is to combine **DevOps + MLOps + Cloud** to create systems that are **pr
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square\&logo=splunk\&logoColor=white)
 
----
+
 
 ## 📫 **How to Reach Me**
 
-📩 **Email:** **[swinalwaghmare@gmail.com](mailto:swinalwaghmare@gmail.com)**
-🔗 **LinkedIn:** [https://www.linkedin.com/in/swinalwaghmare](https://www.linkedin.com/in/swinalwaghmare)
-🐙 **GitHub:** [https://github.com/SwinalWaghmare](https://github.com/SwinalWaghmare)
-🐦 **Twitter:** [https://x.com/waghmare_swinal](https://x.com/waghmare_swinal)
+📩 **Email:** **[swinalwaghmare@gmail.com](mailto:swinalwaghmare@gmail.com)** \
+🔗 **LinkedIn:** [https://www.linkedin.com/in/swinalwaghmare](https://www.linkedin.com/in/swinalwaghmare) \
+🐙 **GitHub:** [https://github.com/SwinalWaghmare](https://github.com/SwinalWaghmare) \
+🐦 **Twitter:** [https://x.com/waghmare_swinal](https://x.com/waghmare_swinal) \
+📝 **Medium:** [https://medium.com/@swinalwaghmare]
+
 
 ---
 <!--
