@@ -18,19 +18,29 @@ My goal is to combine **DevOps + MLOps + Cloud** to create systems that are **pr
 
 
 ## 🚀 **What I’m Currently Working On**
+> ### 🟢 **Active Project — EduTrack Pro Infrastructure Automation**
+> [![Status: Active](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge)]()  
+> **Description:**  
+> I’m currently building the entire cloud infrastructure for my EduTrack Pro (Student Admin Panel) project using Terraform + GitHub Actions CI/CD.
+> The goal is to make the application fully automated, production-ready, and scalable.
+> - 🏗️ Writing Terraform modules for VPC, EC2, Load Balancers, RDS, Security Groups
+> - 🚀 Creating GitHub Actions CI/CD to run Terraform fmt → init → validate → plan → apply
+> - 🔄 Designing a multi-pipeline workflow
+>   - Pipeline 1 → Deploy Infrastructure (Terraform)
+>   - Pipeline 2 → Deploy Backend & Frontend apps
+> - 🔐 Setting up environment variables, secrets & secure state management
+> - 📦 Building deployment-ready backend (Spring Boot) & frontend (Streamlit)
+>
+> 🔗 **Repo:** https://github.com/Swinalwaghmare/student-admin-panel
 
-🔹 Designing production-grade AWS solutions with VPC, EKS, Lambda & CloudFront \
-🔹 Creating end-to-end CI/CD pipelines using GitHub Actions, GitLab CI & Jenkins \
-🔹 Implementing Blue-Green & Zero-Downtime deployments on Kubernetes \
-🔹 Automating ML training, model versioning & deployments using MLflow + DVC \
-🔹 Building real-time ML pipelines with monitoring using Prometheus & Grafana
 
+<!--
 ### 🔥 Recent Work
 
 * Automated EC2 log processing pipeline using **AWS Lambda + S3**
 * Production-ready **Blue-Green Kubernetes deployment** with Jenkins
 * End-to-end ML systems: recommender system, sentiment analysis pipeline, SQL-based data engineering workflows
-
+--->
 
 ## 🛠️ **Tools & Technologies I Use**
 
