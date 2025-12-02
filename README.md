@@ -19,10 +19,10 @@ My goal is to combine **DevOps + MLOps + Cloud** to create systems that are **pr
 
 ## 🚀 **What I’m Currently Working On**
 
-🔹 Designing production-grade AWS solutions with VPC, EKS, Lambda & CloudFront
-🔹 Creating end-to-end CI/CD pipelines using GitHub Actions, GitLab CI & Jenkins
-🔹 Implementing Blue-Green & Zero-Downtime deployments on Kubernetes
-🔹 Automating ML training, model versioning & deployments using MLflow + DVC
+🔹 Designing production-grade AWS solutions with VPC, EKS, Lambda & CloudFront \
+🔹 Creating end-to-end CI/CD pipelines using GitHub Actions, GitLab CI & Jenkins \ 
+🔹 Implementing Blue-Green & Zero-Downtime deployments on Kubernetes \ 
+🔹 Automating ML training, model versioning & deployments using MLflow + DVC \ 
 🔹 Building real-time ML pipelines with monitoring using Prometheus & Grafana
 
 ### 🔥 Recent Work
