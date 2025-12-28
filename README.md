@@ -44,7 +44,7 @@ My goal is to combine **DevOps + MLOps + Cloud** to create systems that are **pr
 > - 🚀 Enabled automatic Kubernetes deployments through ArgoCD
 > - 🔐 Designed a secure, cloud-agnostic pipeline compatible with restricted environments
 > This project demonstrates practical expertise in GitOps, CI/CD automation, Helm, Kubernetes, and secure deployment workflows.
-> 🔗 **Repo:** https://github.com/Swinalwaghmare/CI-CD-Pipeline-Visualizer.git
+> 🔗 **Repo:** https://github.com/Swinalwaghmare/CI-CD-Pipeline-Visualizer
 
 <!--
 ### 🔥 Recent Work
@@ -62,6 +62,7 @@ My goal is to combine **DevOps + MLOps + Cloud** to create systems that are **pr
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square\&logo=terraform\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square\&logo=helm&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square\&logo=githubactions\&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-181717?style=flat-square\&logo=gitlab\&logoColor=white)
