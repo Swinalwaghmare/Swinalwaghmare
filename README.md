@@ -33,6 +33,18 @@ My goal is to combine **DevOps + MLOps + Cloud** to create systems that are **pr
 >
 > 🔗 **Repo:** https://github.com/Swinalwaghmare/student-admin-panel
 
+> ### 🟢 **Completed Project — CI-CD-Pipeline-Visualizer**
+> [![Status: Complete](https://img.shields.io/badge/STATUS-COMPLETE-brightgreen?style=for-the-badge)]()  
+> **Description:**
+> I have completed the CI/CD Pipeline Visualizer – Event-Driven GitOps Deployment project, showcasing a real-world GitOps-based CI/CD workflow for a containerized frontend application.
+> - 🐳 Built and released Docker images manually for controlled, cost-efficient deployments
+> - 🔔 Implemented event-driven automation using Docker Hub webhooks with a secure proxy
+> - 🔄 Updated Helm values.yaml via GitHub Actions, keeping Git as the single source of truth
+> - 📦 Managed deployments declaratively using Helm charts
+> - 🚀 Enabled automatic Kubernetes deployments through ArgoCD
+> - 🔐 Designed a secure, cloud-agnostic pipeline compatible with restricted environments
+> This project demonstrates practical expertise in GitOps, CI/CD automation, Helm, Kubernetes, and secure deployment workflows.
+> 🔗 **Repo:** https://github.com/Swinalwaghmare/CI-CD-Pipeline-Visualizer.git
 
 <!--
 ### 🔥 Recent Work
