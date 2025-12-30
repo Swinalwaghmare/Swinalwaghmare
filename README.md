@@ -99,6 +99,8 @@ My goal is to combine **DevOps + MLOps + Cloud** to create systems that are **pr
 📝 **Medium:** [https://medium.com/@swinalwaghmare]
 
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swinalwaghmare&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night)](https://github.com/Swinalwaghmare)
+
 ---
 <!--
 ## 📊 GitHub Stats
